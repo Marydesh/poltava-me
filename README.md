@@ -2,6 +2,7 @@
 
 * Code rafector for a password generator application.
 
+(https://marydesh.github.io/poltava-me/) - Deployed Application link
 
 ![The screenshot of the webpage](./Project/poltava%20-%201.png)
 ![Screenshot 2](./Project/poltava%20-%202.png)
